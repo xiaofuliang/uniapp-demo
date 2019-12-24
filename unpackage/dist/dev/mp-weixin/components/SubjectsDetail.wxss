@@ -1,0 +1,93 @@
+
+.grace-title.data-v-8b107712 {
+color: #333333;
+}
+.grace-title.data-v-8b107712 {
+	line-height: 2em;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: nowrap;
+	flex-wrap: nowrap;
+	font-size: 28rpx;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	justify-content: space-between;
+	font-weight: bold;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	align-items: center;
+}
+.grace-grids.data-v-8b107712 {
+	padding: 0;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	flex-wrap: wrap;
+}
+.grace-grids-items.data-v-8b107712 {
+width: 175rpx;
+padding: 20rpx 0;
+display: -webkit-box;
+display: -webkit-flex;
+display: flex;
+box-sizing: border-box;
+-webkit-box-orient: vertical;
+-webkit-box-direction: normal;
+-webkit-flex-direction: column;
+flex-direction: column;
+-webkit-box-align: center;
+-webkit-align-items: center;
+align-items: center;
+}
+.grace-grids-icon.data-v-8b107712 {
+width: 100%;
+height: 80rpx;
+font-size: 60rpx;
+line-height: 80rpx;
+text-align: center;
+}
+.grace-grids-text.data-v-8b107712 {
+line-height: 50rpx;
+width: 100%;
+text-align: center;
+font-size: 24rpx;
+margin-top: 2px;
+}
+.grace-grids-icon.data-v-8b107712 {
+		font-size: 80rpx
+}
+.grace-grids-d.data-v-8b107712 {
+		color: #A2A8AC !important;
+}
+.iconzhangjie.data-v-8b107712,
+	.iconsongjiang.data-v-8b107712,
+	.iconkoushu.data-v-8b107712,
+	.iconshibie.data-v-8b107712 {
+		color: #F9B11C;
+}
+.iconmonikaoshi.data-v-8b107712,
+	.iconlantian.data-v-8b107712,
+	.iconshicaojiaoxue.data-v-8b107712 {
+		color: #3CBC9C;
+}
+.iconlinianzhenti.data-v-8b107712,
+	.iconhaiwan1.data-v-8b107712,
+	.iconkoushu.data-v-8b107712 {
+		color: #FF7979;
+}
+.iconxitiku.data-v-8b107712,
+	.iconbeidaqingniao.data-v-8b107712,
+	.iconxiaofeijineng.data-v-8b107712 {
+		color: #F673C6;
+}
+.iconcuotiku.data-v-8b107712,
+	.iconlilunxuexi.data-v-8b107712,
+	.iconzhiren1.data-v-8b107712 {
+		color: #9BB1FF;
+}
+.five .grace-grids-items.data-v-8b107712 {
+		width: 140rpx;
+}
+
