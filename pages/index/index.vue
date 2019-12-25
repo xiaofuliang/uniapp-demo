@@ -1,11 +1,18 @@
 <template>
 	<view class="content">
-		<subjects-detail></subjects-detail>
+		<list>
+				<template  v-slot:default="{item,index}">
+					<view>
+						<text>{{item.name}}</text>
+						<text>{{item.age}}</text>
+					</view>
+				</template>
+		</list>
 	</view>
 </template>
 
 <script>
-		import SubjectsDetail from "@/components/SubjectsDetail.vue";
+		import List from "@/components/List.vue";
 	export default {
 		data() {
 			return {
@@ -13,7 +20,7 @@
 			}
 		},
 		components:{
-			SubjectsDetail
+			List
 		},
 		onLoad() {
 
